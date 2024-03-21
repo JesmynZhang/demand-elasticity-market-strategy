@@ -1,0 +1,107 @@
+Consumer_ID,Age,Income,Education_Level,Gender,Product_Category,Price_Sensitivity,Purchase_Frequency,Average_Spending,Preferred_Brand
+1,56,91858,High School,Female,T-shirts,Medium,6,355,Brand C
+2,46,42666,Bachelor,Female,T-shirts,Low,1,114,Brand A
+3,32,68660,Bachelor,Female,T-shirts,Medium,9,478,Brand B
+4,60,33561,High School,Male,T-shirts,High,1,393,Brand B
+5,25,56854,High School,Male,T-shirts,Medium,5,419,Brand B
+6,38,94505,PhD,Male,T-shirts,Low,4,27,Brand C
+7,56,82251,Bachelor,Female,T-shirts,High,3,407,Brand B
+8,36,52662,Bachelor,Male,T-shirts,Medium,6,379,Brand C
+9,40,38392,PhD,Female,T-shirts,Medium,2,407,Brand C
+10,28,60535,PhD,Male,T-shirts,Medium,3,203,Brand C
+11,28,82256,Bachelor,Female,T-shirts,Medium,5,300,Brand C
+12,41,65222,Master,Male,T-shirts,High,9,214,Brand C
+13,53,93335,High School,Female,T-shirts,High,2,371,Brand B
+14,57,40965,Bachelor,Male,T-shirts,High,8,214,Brand B
+15,41,54538,Bachelor,Male,T-shirts,Low,2,174,No Preference
+16,20,38110,Master,Female,T-shirts,Low,5,112,Brand C
+17,39,57266,Master,Male,T-shirts,Medium,7,179,Brand A
+18,19,82992,Bachelor,Male,T-shirts,Low,8,453,Brand B
+19,41,36910,Master,Female,T-shirts,Medium,1,80,Brand B
+20,61,30206,Master,Female,T-shirts,Medium,6,141,No Preference
+21,47,53419,Master,Male,T-shirts,Medium,1,70,Brand A
+22,55,80636,Master,Male,T-shirts,High,2,422,Brand A
+23,19,80015,Bachelor,Male,T-shirts,High,1,296,Brand B
+24,38,84268,Bachelor,Female,T-shirts,Medium,5,24,Brand B
+25,50,48141,Bachelor,Male,T-shirts,Medium,9,485,No Preference
+26,29,86044,Master,Male,T-shirts,High,6,111,Brand A
+27,39,97214,PhD,Male,T-shirts,Low,1,189,No Preference
+28,61,63827,Bachelor,Male,T-shirts,Low,1,336,Brand A
+29,42,85820,Bachelor,Female,T-shirts,High,2,41,No Preference
+30,44,92623,Bachelor,Male,T-shirts,Low,9,424,Brand A
+31,59,52299,Bachelor,Female,T-shirts,Low,3,345,Brand A
+32,45,73585,PhD,Male,T-shirts,Low,1,20,Brand C
+33,33,94044,High School,Male,T-shirts,High,5,152,No Preference
+34,32,72557,High School,Male,T-shirts,Low,7,252,No Preference
+35,64,79080,Bachelor,Male,T-shirts,Medium,6,31,Brand C
+36,61,32693,High School,Female,T-shirts,Low,1,365,No Preference
+37,20,99163,Bachelor,Female,T-shirts,Low,5,65,Brand A
+38,54,55939,Bachelor,Female,T-shirts,Medium,5,53,No Preference
+39,24,78925,Bachelor,Female,T-shirts,Low,6,452,Brand B
+40,38,72941,Bachelor,Male,T-shirts,Low,3,97,Brand C
+41,26,51834,Bachelor,Female,T-shirts,Low,5,237,No Preference
+42,56,48047,Bachelor,Male,T-shirts,Medium,7,320,Brand C
+43,35,56105,Bachelor,Female,T-shirts,High,5,430,Brand C
+44,21,45707,Bachelor,Male,T-shirts,Medium,5,92,Brand B
+45,42,51976,Bachelor,Male,T-shirts,Low,5,301,No Preference
+46,31,74262,PhD,Male,T-shirts,High,3,268,Brand A
+47,26,53776,Bachelor,Male,T-shirts,Medium,1,66,No Preference
+48,43,60080,Master,Male,T-shirts,High,5,140,Brand C
+49,19,96842,Bachelor,Male,T-shirts,Medium,9,233,Brand A
+50,37,91373,Bachelor,Female,T-shirts,Low,1,258,Brand C
+51,45,36776,Bachelor,Male,T-shirts,Low,3,75,Brand C
+52,64,85016,Bachelor,Male,T-shirts,High,4,369,Brand C
+53,24,39474,Master,Female,T-shirts,Low,1,126,No Preference
+54,61,88053,High School,Female,T-shirts,Medium,1,338,Brand A
+55,25,51959,Bachelor,Male,T-shirts,Medium,8,67,Brand C
+56,64,35530,Bachelor,Male,T-shirts,Low,2,80,No Preference
+57,52,33748,Master,Female,T-shirts,Medium,8,356,Brand B
+58,31,43545,High School,Male,T-shirts,Medium,7,45,Brand C
+59,34,96199,PhD,Female,T-shirts,Low,2,311,Brand B
+60,53,64766,Bachelor,Female,T-shirts,High,6,276,Brand B
+61,57,91087,Bachelor,Male,T-shirts,Medium,6,27,Brand C
+62,21,98840,Master,Male,T-shirts,Medium,3,132,Brand C
+63,19,84384,Bachelor,Female,T-shirts,High,2,374,Brand A
+64,23,81005,PhD,Female,T-shirts,Medium,1,272,Brand C
+65,59,76576,Bachelor,Female,T-shirts,Medium,6,199,Brand A
+66,21,69353,Bachelor,Female,T-shirts,Low,5,226,Brand A
+67,46,92003,Bachelor,Female,T-shirts,Low,9,322,Brand A
+68,35,82733,PhD,Female,T-shirts,Low,1,146,Brand A
+69,43,95318,High School,Female,T-shirts,Low,7,75,Brand B
+70,61,53664,Bachelor,Female,T-shirts,Medium,5,233,Brand C
+71,51,97172,High School,Female,T-shirts,High,5,33,No Preference
+72,27,56736,Bachelor,Female,T-shirts,Medium,2,493,Brand A
+73,53,30854,Bachelor,Female,T-shirts,Medium,3,47,No Preference
+74,31,68623,Bachelor,Female,T-shirts,High,7,490,Brand C
+75,48,37392,Bachelor,Male,T-shirts,Medium,6,97,Brand B
+76,32,85680,Master,Female,T-shirts,Medium,2,235,No Preference
+77,25,76717,Master,Female,T-shirts,Low,6,405,No Preference
+78,31,80859,High School,Female,T-shirts,Low,2,384,Brand A
+79,40,56309,High School,Female,T-shirts,Medium,2,173,Brand B
+80,57,93734,Bachelor,Female,T-shirts,Medium,2,33,No Preference
+81,38,82662,Bachelor,Male,T-shirts,High,3,206,Brand C
+82,33,42688,Bachelor,Male,T-shirts,Low,2,331,Brand A
+83,62,55342,Bachelor,Male,T-shirts,Low,4,390,No Preference
+84,35,67157,Bachelor,Male,T-shirts,High,9,26,No Preference
+85,64,97863,Master,Male,T-shirts,Medium,6,22,No Preference
+86,41,82083,High School,Female,T-shirts,High,1,130,No Preference
+87,43,95733,Bachelor,Male,T-shirts,High,8,426,No Preference
+88,42,64698,Bachelor,Female,T-shirts,High,7,257,Brand A
+89,62,52671,Bachelor,Male,T-shirts,High,3,382,Brand A
+90,58,55184,Bachelor,Female,T-shirts,Low,1,258,Brand C
+91,46,72107,Bachelor,Male,T-shirts,Medium,5,293,No Preference
+92,32,81663,Bachelor,Male,T-shirts,Medium,4,313,Brand B
+93,62,45708,High School,Male,T-shirts,Low,8,246,Brand C
+94,18,79811,High School,Female,T-shirts,Low,1,390,Brand C
+95,42,32811,Bachelor,Male,T-shirts,Low,1,34,Brand B
+96,24,86250,High School,Female,T-shirts,High,4,211,Brand C
+97,26,64754,High School,Male,T-shirts,Medium,8,492,No Preference
+98,41,41411,Bachelor,Male,T-shirts,High,5,138,Brand C
+99,18,32911,High School,Female,T-shirts,Medium,2,47,Brand C
+100,61,97270,Master,Female,T-shirts,High,6,221,Brand B
+101,25,38680,High School,Male,T-shirts,Medium,5,58,Brand C
+102,41,41111,Bachelor,Female,T-shirts,Medium,2,460,Brand B
+103,28,67504,Bachelor,Female,T-shirts,High,3,292,Brand B
+104,34,31802,Bachelor,Female,T-shirts,High,9,250,Brand C
+105,25,38155,Bachelor,Male,T-shirts,Medium,7,105,Brand A
+106,52,69384,High School,Male,T-shirts,High,7,493,Brand A
